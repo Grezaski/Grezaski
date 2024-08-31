@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+</div>
 
-<!--
-**Grezaski/grezaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Preview](./images/bg_image.jpeg)
 
-Here are some ideas to get you started:
+### Hi!👋 I'm Grezaski👒
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend Developer and Gamer** 
+
+## **☕ About me**
+<a href="https://github.com/Grezaski"><img align="left" width="100" src="./images/grez_switch.png"></a>
+I'm Grezaski  and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
+<br><br>
+
+## **📫 Contact**
+<a href="https://github.com/Grezaski"><img align="right" width="100" src="./images/grez_box.png" /></a>
+**Please Contact me on Discord for a quick response:** [Grezaski](https://discord.com/users/897679245072027719)
+
+**You can also email me here:** grezaski@gmail.com
+
+
+[![](https://img.shields.io/github/followers/Grezaski?label=Followers&style=social)](https://github.com/Grezaski)
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/8z3Kk4G4Yy)
+[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199467905806)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:grezaski@gmail.com)
